@@ -1,0 +1,7 @@
+- Instructor
+- Ejecución de la Formación
+- Reportes
+- Reporte de Juicios de Evaluación
+- Escoger Ficha
+- Generar Reporte
+

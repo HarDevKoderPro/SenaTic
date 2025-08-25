@@ -1,0 +1,5 @@
+﻿email;nom;apelli;tipo_dni;dni;tele;dire;gene;fecha_naci;nom_repre;dni_repre;tele_repre;dire_repre;mail_repre;parentezco
+user4@example.com;Lucia;Martínez;ti;87654321;654321;Calle Mayor 45;H;22/03/1985;Jorge;465446;321654;Calle Mayor 678;jorge@example.com;tio
+user5@example.com;Alberto;Fernández;ti;13579246;789456;Avenida Sol 120;M;10/09/1975;Rosa;744641;654987;Avenida Luna 789;rosa@example.com;madre
+user6@example.com;Elena;Ramírez;ti;97531842;321789;Calle Luna 303;H;5/06/1995;Manuel;484874;852963;Calle Estrella 456;manuel@example.com;padre
+user7@example.com;Tomás;Sánchez;ti;24681357;654987;Avenida Río 200;M;2/02/1998;Alicia;46875;963852;Avenida Río 101;alicia@example.com;hermana

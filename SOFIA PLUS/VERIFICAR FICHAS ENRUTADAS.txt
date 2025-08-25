@@ -1,0 +1,9 @@
+- Ingresar con Rol de instructor
+- Ejecución de la formación
+- Administrar Ruta de Aprendizaje
+- Gestión de la ruta de Aprendizaje
+- Listar Aprendices Asociados a la Ruta
+- Seleccionar Ficha de caracterización
+- Seleccionar Ruta de aprendizaje
+- Consultar
+- Deben aparecer el listado de los estudiantes de la ficha

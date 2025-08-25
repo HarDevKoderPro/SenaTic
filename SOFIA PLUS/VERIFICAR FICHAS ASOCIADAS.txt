@@ -1,0 +1,4 @@
+- Ingresar con Rol de instructor
+- Gestion de ambientes
+- Consultar fichas de instructor
+- Se Muestran las fichas asignadas
